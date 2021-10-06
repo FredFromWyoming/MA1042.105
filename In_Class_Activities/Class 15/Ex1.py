@@ -38,5 +38,5 @@ print("Ecercicio 2: " + str(letterCount))
 #Exercicio 1
 plt.title("Exercicio 1")
 plt.grid(True)
-plt.hist(inverseCount, bins = len(alphabet) )
-plt.show()  
+plt.hist(inverseCount, bins = len(alphabet))
+plt.show()
